@@ -1,19 +1,14 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: '2024-02-11 00:00:00'
 title: About
-description: Some description.
+description: SurvivorDK is a YouTube gaming channel.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+# @SurvivorDK
 
-# About
+You can check out my YouTube channel here: [@SurvivorDK](https://www.youtube.com/channel/UCZbcuQyXHt0BtUqhAQ2c2QQ)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Thank you for visiting!

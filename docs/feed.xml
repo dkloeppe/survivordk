@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SurvivorDK</title>
+    <description>a gaming YouTube channel</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 11 Feb 2024 03:36:04 -0700</pubDate>
+    <lastBuildDate>Sun, 11 Feb 2024 03:36:04 -0700</lastBuildDate>
+    <generator>Jekyll v3.9.4</generator>
+    
+      <item>
+        <title>First 17 Days on Ragnarok</title>
+        <description>&lt;p&gt;Hello and Welcome! I’m SurvivorDK, and I play Ark: Survival Evolved (2015). Ark is an action-adventure, open-world, survival, crafting game. I started this channel in 2023 because I enjoy playing this game and I wanted to learn video editing. So far, I’ve made 27 videos, and I’ve gotten 7 subscribers! There was a lot for me to learn, from recording with OBS, to fixing my audio in Audacity, to finding royalty-free-music, to editing in OpenShot and KDenLive, to actually playing the game and making progress! I’ve really enjoyed every step of the way though!!&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCZbcuQyXHt0BtUqhAQ2c2QQ&quot;&gt;&lt;img src=&quot;/assets/img/first-17-days/ark-ragnarok-banner.jpg&quot; alt=&quot;Ark Ragnarok&quot; /&gt;&lt;/a&gt;&lt;/p&gt;...</description>
+        <pubDate>Sun, 11 Feb 2024 00:42:13 -0700</pubDate>
+        <link>http://localhost:4000/first-17-days-on-ragnarok/</link>
+        <guid isPermaLink="true">http://localhost:4000/first-17-days-on-ragnarok/</guid>
+        
+        <category></category>
+      </item>
+    
+  </channel>
+</rss>
