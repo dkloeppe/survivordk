@@ -179,10 +179,38 @@
     
     
         <url>
-            <loc>http://localhost:4000/first-17-days-on-ragnarok/</loc>
+            <loc>http://localhost:4000/first-25-days-on-ragnarok/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
-            <lastmod>2024-02-11</lastmod>
+            <lastmod>2024-05-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/week-3-on-ragnarok/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2024-04-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/week-2-on-ragnarok/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2024-01-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/week-1-on-ragnarok/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2023-08-04</lastmod>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/first-day-on-ragnarok/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2023-07-11</lastmod>
         </url>
     
     
