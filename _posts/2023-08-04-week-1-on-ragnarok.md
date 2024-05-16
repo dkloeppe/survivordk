@@ -58,7 +58,7 @@ Day 7 started with leading Thorny, my newly tamed Anky, back to base and doing m
 In the first week, I managed to tame twelve different species of dinos: Moschops, Dodo, Dilo, Lystro, Trike, Turtle, Parasaur, Pego, Tek Parasaur, Raptor, Iguanodon, and Anky. If successful, the Stego would be the thirteenth.
 
 ### Looking Ahead
-![Ark Ragnarok - SurvivorDK Riding Strawberry the Raptor](/assets/img/week-01/survivordk-welcome.png)
+![Ark Ragnarok - SurvivorDK Riding Strawberry the Raptor](/assets/img/week-01/survivordk-welcome.jpg)
 Next week, I plan to focus on extensive building at the base, which means taming a Doedic for efficient stone gathering. Additionally, I aim to tame several Pteranodons now that I’ve unlocked the saddle at level 38. As of now, I'm level 39 and excited for the new possibilities.
 
 I hope the Stego tames up without any issues. Thank you for following along on my journey! Please like, comment, and subscribe if you enjoyed this post, and I’ll see you tomorrow with more adventures!
