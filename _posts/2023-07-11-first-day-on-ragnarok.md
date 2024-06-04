@@ -4,44 +4,55 @@ layout: post
 title: "First Day on Ragnarok"
 subtitle:
 description:
-image: /assets/img/first-17-days/survivordk-day-1-viking-bay.jpg
-optimized_image: /assets/img/first-day/survivordk-day-1-viking-bay.jpg
+image: /assets/img/first-day/survivordk-day-1-punching-tree.png
+optimized_image: /assets/img/first-day/survivordk-day-1-punching-tree.png
 category:
 tags: 
 author: survivordk
 paginate: false
 ---
 
-Hello and Welcome!  I'm SurvivorDK, and I’m excited to share my latest adventure in Ark: Survival Evolved. Ark is an action-adventure, open-world, survival, crafting game.  You can tame dinos, build bases, and fight bosses!  I started a gaming YouTube channel in 2023 because I enjoy playing this game and I wanted to learn video editing.  There was a lot for me to learn, from recording with OBS, to fixing my audio in Audacity, to finding royalty-free-music, to editing in OpenShot and KDenLive, to actually playing the game and making progress!  I've really enjoyed every step of the way though!!  You can check out my SurvivorDK YouTube channel here: [YouTube.com/@SurvivorDK](https://www.youtube.com/@SurvivorDK)
+I spawned on the beach by Viking Bay, a perfect starting point for gathering resources and beginning my journey.  After I gained my bearings, I did the most logical thing a survivor could do: start punching the nearest tree.  I harvested a few bushes and got my first level-up.  There are a ton of dodos around, and they are VERY noisy.  Don't they know I'm doing a Let's Play?  As I gathered materials under the Dodos' deafening roars, I spotted two high-level Moschops right by the spawn point. This was a fantastic opportunity to get a head start with some strong tames.
 
-## Starting My Ragnarok Adventure: Taming Moschops and Building a Thatch Hut
-I spawned on the beautiful beach of Viking Bay, a perfect starting point for gathering resources and beginning my journey. Let’s dive into the details of my first day, where I tamed two high-level Moschops, explored the surroundings, and built a cozy thatch hut for the night.
+### Starting My Adventure: Taming Moschops
 
-### Harvesting Resources and Spotting Moschops
-![Ark Ragnarok - SurvivorDK Punching a Tree](/assets/img/first-day/survivordk-day-1-punching-tree.png)
-Upon spawning on the beach by Viking Bay, my first task was to start harvesting essential resources. As I gathered materials, I spotted two high-level Moschops right by the spawn point. This was a fantastic opportunity to get a head start with some strong tames.
-
-### Taming Two Moschops: Fire and Blue
-![Ark Ragnarok - SurvivorDK Riding a Moschops](/assets/img/first-day/survivordk-day-1-riding-moschops.png)
 Moschops are passive tames that can require any of twenty different foods. Luckily, these two Moschops wanted Mejoberries and Rare Flowers, both of which can be found on the beach. I immediately began the taming process.
+
+![Ark Ragnarok - SurvivorDK Day 1: Blue the Moschops on Viking Bay Beach](/assets/img/week-01/survivordk-day-1.png)
 
 As I waited for the two Moschops, whom I'm going to name Fire and Blue, to get hungry again, I put my first level into weight and unlocked the stone hatchet. With my trusty stone hatchet, I continued harvesting resources and explored the surrounding area, keeping an eye on the two Moschops' taming progress.
 
-### Exploring and Gathering Materials
-![Ark Ragnarok - SurvivorDK Riding a Moschops with a Pego lurking in the shaddows about to pounce](/assets/img/first-day/survivordk-day-1-pego-stealing.png)
+Both Moschops required three feedings each to fully tame up, but I was lucky and they only wanted berries and rare flowers.  It would have been a real bummer if they wanted leech blood or something for their last feeding...
+
+![Ark Ragnarok - SurvivorDK on Fire](/assets/img/first-day/survivordk-day-1-viking-bay.jpg)
+
 After successfully taming Fire and Blue, I continued up the beach, leveling up and gathering more resources. I needed fiber, thatch, and wood to craft a thatch hut for shelter. Knowing that crates spawn on the beach in certain spots, I decided to search for them, hoping to find some useful metal tools.
 
-### Crate Loot and Setting Up Camp
-![Ark Ragnarok - SurvivorDK Getting Loot from Wooden Crates](/assets/img/first-day/survivordk-day-1-crates.png)
-Unfortunately, I didn’t find the metal pickaxe or hatchet I was hoping for, but I did come across two crossbows and a pike—excellent finds that would undoubtedly help in my survival efforts. With these tools in hand, I picked a nearby spot on the beach to set up camp and began building my thatch hut.
+![Ark Ragnarok - SurvivorDK Riding a Moschops](/assets/img/first-day/survivordk-day-1-riding-moschops.png)
 
-### Building and Leveling Up
-![Ark Ragnarok - SurvivorDK Building a Thatch Hut](/assets/img/first-day/survivordk-day-1-building-hut.png)
+I mostly encountered safe dinos on the beach, like Lystros and Brontos, with the occasional Trike and Turtle.  I stuck close to the shoreline though, because I know there are some more dangerous spawns inland, like Raptors and Carnos and Rexes, Oh My!
+
+### Exploring and Gathering Materials
+
+As I explored the coast, I fought a few dilo and harvested them for hide and raw meat.  I also ran into a few compys but they were no match for Fire and Blue.  I did steer clear of an Argy though, I'm not looking for trouble just yet.  As I was making progress towards the spot where shipwrecked crates sometimes wash ashore, there was a thief lurking in the shadows...
+
+![Ark Ragnarok - SurvivorDK Riding a Moschops with a Pego lurking in the shaddows about to pounce](/assets/img/first-day/survivordk-day-1-pego-stealing.png)
+
+A Pego lunges at Fire, stealing some narcoberries!  We follow the Pego off a cliff and successfully get the berries back.
+
+![Ark Ragnarok - SurvivorDK Getting Loot from Wooden Crates](/assets/img/first-day/survivordk-day-1-crates.png)
+
+I found the wooden crates on the beach on the evening of my first day on Ragnarok.  Unfortunately, I didn’t find the metal pickaxe or hatchet I was hoping for, but I did come across two crossbows and a pike—excellent finds that would undoubtedly help in my survival efforts. With these tools in hand, I picked a nearby spot on the beach to set up camp and began building my thatch hut.
+
+### Building My Starter Hut
+
 I built a simple 2x2 thatch hut as the sun set on Day 1. After constructing the hut, I took Fire out to fight some dinos and level up. This not only helped me gain valuable experience but also ensured that my Moschops was ready to face any threats that might come our way during the night.
+
+![Ark Ragnarok - SurvivorDK Building a Thatch Hut](/assets/img/first-day/survivordk-day-1-building-hut.png)
 
 This was just the beginning of my Ragnarok adventure. Stay tuned for more updates as I continue to explore, build, and tame my way through Ark: Survival Evolved. If you want to see all the action, check out the video here: [Ark Ragnarok Day 1: Getting Started & Taming Moschops](https://www.youtube.com/watch?v=BTqesoTGVsU&t=975s)
 
-[![Ark Ragnarok - SurvivorDK Day 1](/assets/img/first-day/survivordk-day-1-thumbnail.png)](https://www.youtube.com/watch?v=BTqesoTGVsU&t=975s)
+[![Ark Ragnarok - SurvivorDK Day 1](/assets/img/first-day/survivordk-day-1-thumbnail.png)](https://youtu.be/BTqesoTGVsU)
 
 Happy surviving, and see you next time!
 

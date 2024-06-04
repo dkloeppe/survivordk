@@ -16,8 +16,11 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Feed
-    url: /feed.xml
+  - title: PC Build
+    url: /pc-build
+  - title: YouTube Analytics
+    url: /youtube-analytics
+
 email: dk@survivordk.com
 # See: https://disqus.com/
 #disqus_username: 
@@ -27,15 +30,10 @@ email: dk@survivordk.com
 
 
 # Social Media Settings
-# Remove the item if you don't need it
-github_username: dkloeppe
-#youtube_username: survivordk
-#facebook_username: facebook_username
-#twitter_username: twitter_username
-#instagram_username: instagram_username
-#linkedin_username: linkedin_username
-#medium_username: medium_username
-
+# youtube_username: SurvivorDK
+twitter_username: SurvivorDK2023
+instagram_username: survivordkplaysark
+# reddit_username: SurvivorDK
 
 # Posts Settings
 show_time_bar: false
