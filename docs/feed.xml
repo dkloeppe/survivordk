@@ -3,18 +3,18 @@
   <channel>
     <title>SurvivorDK</title>
     <description>a gaming YouTube channel</description>
-    <link>survivordk.com//</link>
-    <atom:link href="survivordk.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Jun 2024 07:45:03 -0600</pubDate>
-    <lastBuildDate>Tue, 04 Jun 2024 07:45:03 -0600</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 04 Jun 2024 07:53:44 -0600</pubDate>
+    <lastBuildDate>Tue, 04 Jun 2024 07:53:44 -0600</lastBuildDate>
     <generator>Jekyll v3.9.4</generator>
     
       <item>
         <title>First 25 Days on Ragnarok</title>
         <description>&lt;p&gt;Hello and Welcome! I’m SurvivorDK, and this is my solo playthrough of Ark: Survival Evolved on the Ragnarok map. This map is HUGE, and it has so many different biomes: beach, jungle, mountains, snow, redwoods, swamp, highlands, desert, ocean, caves, ruins, and more! I have two main goals for my first series: tame every dino and beat the boss! There are over a hundred tameable creatures on this map, so it’s going to take a while. Additionally, I want to beat the boss on all three difficulties: Gamma, Beta, and Alpha. The boss on this map is a Dragon and...</description>
         <pubDate>Wed, 15 May 2024 01:42:13 -0600</pubDate>
-        <link>survivordk.com//first-25-days-on-ragnarok/</link>
-        <guid isPermaLink="true">survivordk.com//first-25-days-on-ragnarok/</guid>
+        <link>http://localhost:4000/first-25-days-on-ragnarok/</link>
+        <guid isPermaLink="true">http://localhost:4000/first-25-days-on-ragnarok/</guid>
         
         <category></category>
       </item>
@@ -23,8 +23,8 @@
         <title>Week 3 on Ragnarok</title>
         <description>&lt;p&gt;Welcome back survivors! It’s week 3 on Ragnarok, and I’m going to be building some awesome traps. This will help me reach my goal of taming every creature on this map. During my first week, I made great progress leveling-up and taming starter dinos. My thatch hut was quickly upgraded to wood, and I crafted all the base essentials as I unlocked more engrams.&lt;/p&gt; &lt;p&gt;Over the course of my second week on Ragnarok, I expanded my tribe and resources significantly. Starting on day 8, I gathered Flint, Stone, and Metal with Thorny and tamed several new creatures, including Lavender, Sandy,...</description>
         <pubDate>Sun, 14 Apr 2024 01:42:13 -0600</pubDate>
-        <link>survivordk.com//week-3-on-ragnarok/</link>
-        <guid isPermaLink="true">survivordk.com//week-3-on-ragnarok/</guid>
+        <link>http://localhost:4000/week-3-on-ragnarok/</link>
+        <guid isPermaLink="true">http://localhost:4000/week-3-on-ragnarok/</guid>
         
         <category></category>
       </item>
@@ -33,8 +33,8 @@
         <title>Week 2 on Ragnarok</title>
         <description>&lt;p&gt;Welcome to my solo playthrough of Ark: Survival Evolved on the expansive Ragnarok map. My goals for this series are ambitious: taming all 110 creatures, defeating the bosses on all three difficulties (Gamma, Beta, and Alpha), and building bases across the diverse biomes.&lt;/p&gt; &lt;p&gt;During my first week, I focused on gathering resources and taming various dinosaurs to build a safe haven. I tamed two high-level Moschops and named them Fire and Blue. I also scavenged crates, finding crossbows and a pike, which significantly boosted my early game arsenal. The first day ended with my basic hut completed and an exploration...</description>
         <pubDate>Sun, 07 Jan 2024 00:42:13 -0700</pubDate>
-        <link>survivordk.com//week-2-on-ragnarok/</link>
-        <guid isPermaLink="true">survivordk.com//week-2-on-ragnarok/</guid>
+        <link>http://localhost:4000/week-2-on-ragnarok/</link>
+        <guid isPermaLink="true">http://localhost:4000/week-2-on-ragnarok/</guid>
         
         <category></category>
       </item>
@@ -43,8 +43,8 @@
         <title>Week 1 on Ragnarok</title>
         <description>&lt;p&gt;Hello and Welcome to my solo playthrough of Ark: Survival Evolved on the Ragnarok map. This map is HUGE, and it has so many different biomes: beach, jungle, mountains, snow, redwoods, swamp, highlands, desert, ocean, caves, ruins, and more! I have two main goals for my first series: tame every dino and beat the boss! There are 110 tameable creatures on this map, so that’s going to be quite the feat! Additionally, I can fight the boss on three different difficulties: Gamma, Beta, and Alpha. I want to beat all three! The boss on this map is a Dragon and...</description>
         <pubDate>Fri, 04 Aug 2023 01:42:13 -0600</pubDate>
-        <link>survivordk.com//week-1-on-ragnarok/</link>
-        <guid isPermaLink="true">survivordk.com//week-1-on-ragnarok/</guid>
+        <link>http://localhost:4000/week-1-on-ragnarok/</link>
+        <guid isPermaLink="true">http://localhost:4000/week-1-on-ragnarok/</guid>
         
         <category></category>
       </item>
@@ -53,8 +53,8 @@
         <title>First Day on Ragnarok</title>
         <description>&lt;p&gt;I spawned on the beach by Viking Bay, a perfect starting point for gathering resources and beginning my journey. After I gained my bearings, I did the most logical thing a survivor could do: start punching the nearest tree. I harvested a few bushes and got my first level-up. There are a ton of dodos around, and they are VERY noisy. Don’t they know I’m doing a Let’s Play? As I gathered materials under the Dodos’ deafening roars, I spotted two high-level Moschops right by the spawn point. This was a fantastic opportunity to get a head start with some...</description>
         <pubDate>Tue, 11 Jul 2023 01:42:13 -0600</pubDate>
-        <link>survivordk.com//first-day-on-ragnarok/</link>
-        <guid isPermaLink="true">survivordk.com//first-day-on-ragnarok/</guid>
+        <link>http://localhost:4000/first-day-on-ragnarok/</link>
+        <guid isPermaLink="true">http://localhost:4000/first-day-on-ragnarok/</guid>
         
         <category></category>
       </item>

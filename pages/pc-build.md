@@ -1,6 +1,6 @@
 ---
 layout: page
-menu: false
+menu: true
 date: '2024-02-11 00:00:00'
 title: PC Build
 description: MSI MPG X570, Ryzen 5 5600X, Radeon RX 6950XT
