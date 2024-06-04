@@ -1,6 +1,6 @@
 ---
 layout: page
-menu: true
+menu: false
 date: '2024-02-11 00:00:00'
 title: YouTube Analytics
 description: YouTube Analytics for @SurvivorDK.

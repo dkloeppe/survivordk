@@ -1,6 +1,6 @@
 ---
 layout: page
-menu: true
+menu: false
 date: '2024-02-11 00:00:00'
 title: About
 description: SurvivorDK is a YouTube gaming channel.
