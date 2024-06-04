@@ -1,5 +1,5 @@
 ---
-date: '2023-07-11 07:42:13'
+date: 2023-07-11 07:42:13
 layout: post
 title: "First Day on Ragnarok"
 subtitle:
