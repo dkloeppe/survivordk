@@ -15,25 +15,23 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: /about/
+    url: /about
   - title: PC Build
-    url: /pc-build/
+    url: /pc-build
   - title: YouTube Analytics
-    url: /youtube-analytics/
+    url: /youtube-analytics
 
 email: dk@survivordk.com
 # See: https://disqus.com/
-#disqus_username: 
+# disqus_username: 
 # Contact Form Setting
 # See: https://formspree.io/
-#formspree_form_id: 
+# formspree_form_id: 
 
 
 # Social Media Settings
-# youtube_username: SurvivorDK
 twitter_username: SurvivorDK2023
 instagram_username: survivordkplaysark
-# reddit_username: SurvivorDK
 
 # Posts Settings
 show_time_bar: false
