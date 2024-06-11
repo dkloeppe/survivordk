@@ -7,7 +7,7 @@ description: SurvivorDK is a YouTube gaming channel.
 permalink: /about/
 ---
 
-[![Welcome to @SurvivorDK](/assets/img/week-03/Welcome-04-Thumbnail.png)](https://www.youtube.com/@SurvivorDK)
+[![Welcome to @SurvivorDK](/assets/img/week-03/Welcome-04-Thumbnail.jpg)](https://www.youtube.com/@SurvivorDK)
 
 Hello and Welcome! I'm SurvivorDK, and I play Ark: Survival Evolved solo on Ragnarok.  Ark is an action-adventure, open-world, survival, crafting game where you can tame dinos, build bases, and fight bosses.  I started my YouTube channel ([@SurvivorDK](https://www.youtube.com/@SurvivorDK)) in 2023 because I enjoy playing this game and I wanted to learn video editing.  There was a lot for me to learn, from recording with OBS, to fixing my audio in Audacity, to finding royalty-free-music, to editing in OpenShot and KDenLive, to actually playing the game and making progress!  I've really enjoyed every step of the way though!!
 

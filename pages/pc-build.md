@@ -7,7 +7,7 @@ description: MSI MPG X570, Ryzen 5 5600X, Radeon RX 6950XT
 permalink: /pc-build/
 ---
 
-[![Welcome to @SurvivorDK](/assets/img/week-02/survivordk-welcome-2.png)](https://www.youtube.com/@SurvivorDK)
+[![Welcome to @SurvivorDK](/assets/img/week-02/survivordk-welcome-2.jpg)](https://www.youtube.com/@SurvivorDK)
 
 I play on PC with a keyboard & mouse.  I don't play with any mods or boosted settings, just vanilla 1X.
 
@@ -19,4 +19,18 @@ PC specs:
 - EVGA SuperNova G3 1000W 80+ Gold PSU
 - Samsung 980 PRO 500GB M.2 SSD
 
-I'd like to upgrade my cpu to a Ryzen 5 5800X3D with a liquid cooler.  I'm currently using an inexpensive usb mic, but I'll upgrade to a nicer one at some point!  I also really need to upgrade my storage...  That Samsung 990 PRO 4TB looks awesome!
+I'd like to upgrade my cpu to a Ryzen 5 5800X3D with a liquid cooler.  I also really need to upgrade my storage...  That Samsung 990 PRO 4TB looks awesome!
+
+### Old Recording Setup:
+
+![SurvivorDK Desk with Onn (Walmart) USB Mic, dual monitors, and gaming PC](/assets/img/pc-build/Old-Mic.jpg)
+
+For my first YouTube videos, I was recording with an Onn (Walmart) USB mic. Now I'll be using a FIFINE T669!
+
+![FIFINE T669 USB Mic Unboxing](/assets/img/pc-build/FIFINE-T669-unboxing.jpg)
+
+### New Recording Setup:
+
+![SurvivorDK Desk with FIFINE T669 USB Mic, dual monitors, and gaming PC](/assets/img/pc-build/New-Mic-1.jpg)
+
+![SurvivorDK Desk with FIFINE T669 USB Mic, dual monitors, and gaming PC](/assets/img/pc-build/New-Mic-2.jpg)

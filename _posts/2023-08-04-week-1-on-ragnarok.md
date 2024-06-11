@@ -4,8 +4,8 @@ layout: post
 title: "Week 1 on Ragnarok"
 subtitle:
 description:
-image: /assets/img/week-01/survivordk-day-2.png
-optimized_image: /assets/img/week-01/survivordk-day-2.png
+image: /assets/img/week-01/survivordk-day-2.jpg
+optimized_image: /assets/img/week-01/survivordk-day-2.jpg
 category:
 tags: 
 author: survivordk
@@ -34,21 +34,21 @@ Here's the full episode for day 2: [![Starting an Egg Farm!](/assets/img/week-01
 
 ### Day 3: Slingshotting Trikes and Turtles
 
-![Ark Ragnarok - SurvivorDK Day 3](/assets/img/week-01/survivordk-day-3.png)
+![Ark Ragnarok - SurvivorDK Day 3](/assets/img/week-01/survivordk-day-3.jpg)
 
 On the morning of day 3, I began upgrading my hut to wood and added more storage. At noon, I started using a slingshot to knock out a Trike right outside my hut. After repairing my slingshot a couple of times, I managed to knock out a different Trike that had aggroed on me. The rest of the day was spent harvesting stone and slingshotting Trikes and Turtles up and down the beach.
 
 As the sun set on day 3, I knocked out a Level 150 Female Turtle close to my hut. Before sunrise on day 4, I tamed a Parasaur stuck in the trees near my base and led the Trikes back to camp.
 
-Here's the full episode for day 3: [![Trikes & Turtles!](/assets/img/week-01/survivordk-day-3-thumb.png)](https://youtu.be/745TzpsR580)
+Here's the full episode for day 3: [![Trikes & Turtles!](/assets/img/week-01/survivordk-day-3-thumb.jpg)](https://youtu.be/745TzpsR580)
 
 ### Day 4: Strengthening the Base
 
-![Ark Ragnarok - SurvivorDK Day 4](/assets/img/week-01/survivordk-day-4.png)
+![Ark Ragnarok - SurvivorDK Day 4](/assets/img/week-01/survivordk-day-4.jpg)
 
 The morning of day 4 saw the completion of my wood hut upgrade and the addition of a wood deck. In the afternoon, I tamed a Pego, who I named Leggo, and found a metal hatchet and sword in some crates. By the end of the day, I had reached level 24 and unlocked tranq arrows and stone building structures. I spent the night harvesting, crafting, and organizing my base.
 
-Here's the full episode for day 4: [![Upgrading the Hut!](/assets/img/week-01/survivordk-day-4-thumb.png)](https://youtu.be/PmSMV37bKN8)
+Here's the full episode for day 4: [![Upgrading the Hut!](/assets/img/week-01/survivordk-day-4-thumb.jpg)](https://youtu.be/PmSMV37bKN8)
 
 ### Day 5: Tools and Tames
 
@@ -60,7 +60,7 @@ My first target was the Level 150 Female Trike I had spotted on day 2. After kno
 
 By the end of day 5, my base was home to three Moschops, five Dodos, one Dilo, one Lystro, three Trikes, one Turtle, one Parasaur, one Pego, one Tek Parasaur, and one Raptor.
 
-Here's the full episode for day 5: [![Taming a Raptor, Trike, & Tek Parasaur!](/assets/img/week-01/survivordk-day-5-thumb.png)](https://youtu.be/3W2dtprZxWE)
+Here's the full episode for day 5: [![Taming a Raptor, Trike, & Tek Parasaur!](/assets/img/week-01/survivordk-day-5-thumb.jpg)](https://youtu.be/3W2dtprZxWE)
 
 ### Days 6: More Tames and Upgrades
 
@@ -68,17 +68,17 @@ Here's the full episode for day 5: [![Taming a Raptor, Trike, & Tek Parasaur!](/
 
 On day 6, I set out to tame an Anky to start doing metal runs. On my way, I spotted an Iguanodon and a high-level Pteranodon. As the Anky tamed, I began tranqing a nearby max-level Stego until I ran out of ammo. This led to several trips back to base to craft more tranqs—a recurring theme in my adventures.
 
-Here's the full episode for day 6: [![Taming an Anky!](/assets/img/week-01/survivordk-day-6-thumb.png)](https://youtu.be/sHI02E7L3FI)
+Here's the full episode for day 6: [![Taming an Anky!](/assets/img/week-01/survivordk-day-6-thumb.jpg)](https://youtu.be/sHI02E7L3FI)
 
 ### Day 7: Finishing the Week Strong
 
-![Ark Ragnarok - SurvivorDK Day 7](/assets/img/week-01/survivordk-day-7.png)
+![Ark Ragnarok - SurvivorDK Day 7](/assets/img/week-01/survivordk-day-7.jpg)
 
 Day 7 started with leading Thorny, my newly tamed Anky, back to base and doing my first metal run. My goal for the day was to tame the max-level Stego I had been trying to knock out. As the sun set, I finally knocked out the Stego in shallow water.
 
 In the first week, I managed to tame twelve different species of dinos: Moschops, Dodo, Dilo, Lystro, Trike, Turtle, Parasaur, Pego, Tek Parasaur, Raptor, Iguanodon, and Anky. If successful, the Stego would be the thirteenth.
 
-Here's the full episode for day 7: [![Taming a Stego!](/assets/img/week-01/survivordk-day-7-thumb.png)](https://youtu.be/50QbGtOpD9E)
+Here's the full episode for day 7: [![Taming a Stego!](/assets/img/week-01/survivordk-day-7-thumb.jpg)](https://youtu.be/50QbGtOpD9E)
 
 I hope the Stego tames up without any issues. Thank you for following along on my journey! Please like, comment, and subscribe if you enjoyed this post, and I’ll see you tomorrow with more adventures!
 
