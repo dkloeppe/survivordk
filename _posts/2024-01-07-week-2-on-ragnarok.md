@@ -12,7 +12,21 @@ author: survivordk
 paginate: false
 ---
 
-Welcome to my solo playthrough of Ark: Survival Evolved on the expansive Ragnarok map. My goals for this series are ambitious: taming all 110 creatures, defeating the bosses on all three difficulties (Gamma, Beta, and Alpha), and building bases across the diverse biomes.
+<div class="PageNavigation" style="text-align: center;">
+    <h6>
+    {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.previous.url %}{% if page.next.url %}
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+    {% endif %}{% endif %}
+    {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+    </h6>
+</div>
+
+Welcome to my solo playthrough of Ark: Survival Evolved on the expansive Ragnarok map. My goals for this series are ambitious: taming all 110 creatures, defeating the boss on all three difficulties (Gamma, Beta, and Alpha), and building bases across the diverse biomes.
 
 During my first week, I focused on gathering resources and taming various dinosaurs to build a safe haven. I tamed two high-level Moschops and named them Fire and Blue. I also scavenged crates, finding crossbows and a pike, which significantly boosted my early game arsenal. The first day ended with my basic hut completed and an exploration session to gather more experience. Next, I tamed some Dodos for egg production and a Dilophosaur that I named Dary. As the week progressed, I upgraded my hut to wood and added essential structures. By day 5, my base had forges and a smithy, and I had expanded my tribe with Trikes, a Turtle, a Parasaur, a Pego named Leggo, a Tek Parasaur, and Strawberry the Raptor. I also tamed an Anky for metal runs and aimed to tame a max-level Stego, bringing my total to twelve different species by the week's end. If successful, the Stego will be the thirteenth kind of dino.  Now, it's Week 2 on Ragnarok, and I'm thrilled to share my adventures of taming my first fliers!
 
@@ -73,3 +87,12 @@ Despite the ups and downs of the week, I made significant progress. My tribe had
 Thank you for following my journey! Please like, comment, and subscribe if you enjoyed, and I’ll see you next week for more Ark: Survival Evolved adventures!
 
 Here is the video for week 2 of my Ragnarok adventure: [![Ark Ragnarok Week 2: Taking Flight!](/assets/img/week-02/survivordk-week-2-thumbnail.jpg)](https://youtu.be/EvF47ESLYP0)
+
+<div class="PageNavigation">
+    {% if page.next.url %}
+        <h4>Here's my next post: <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></h4>
+    {% endif %}
+    {% if page.previous.url %}
+        <h4>Here's my previous post: <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></h4>
+    {% endif %}
+</div>

@@ -12,6 +12,20 @@ author: survivordk
 paginate: false
 ---
 
+<div class="PageNavigation" style="text-align: center;">
+    <h6>
+    {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.previous.url %}{% if page.next.url %}
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+    {% endif %}{% endif %}
+    {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+    </h6>
+</div>
+
 Hello and Welcome to my solo playthrough of Ark: Survival Evolved on the Ragnarok map.  This map is HUGE, and it has so many different biomes: beach, jungle, mountains, snow, redwoods, swamp, highlands, desert, ocean, caves, ruins, and more!  I have two main goals for my first series: tame every dino and beat the boss!  There are 110 tameable creatures on this map, so that's going to be quite the feat!  Additionally, I can fight the boss on three different difficulties: Gamma, Beta, and Alpha.  I want to beat all three! The boss on this map is a Dragon and Manticore!  I also have a third goal for my this series: I want to build bases all around the map.
 
 ### Day 1: The Start of an Epic Adventure
@@ -87,3 +101,12 @@ For a more detailed look, check out the week 1 SurvivorDK Ragnarok movie: [Getti
 [![Ark Ragnarok - SurvivorDK Week 1: Getting Started & Taming 20 Starter Dinos](/assets/img/week-01/survivordk-week-1-thumbnail.jpg)](https://youtu.be/9fp60l01VP8)
 
 Happy surviving, and see you next week!
+
+<div class="PageNavigation">
+    {% if page.next.url %}
+        <h4>Here's my next post: <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></h4>
+    {% endif %}
+    {% if page.previous.url %}
+        <h4>Here's my previous post: <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></h4>
+    {% endif %}
+</div>

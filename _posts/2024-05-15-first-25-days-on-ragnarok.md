@@ -12,13 +12,27 @@ author: survivordk
 paginate: false
 ---
 
+<div class="PageNavigation" style="text-align: center;">
+    <h6>
+    {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.previous.url %}{% if page.next.url %}
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+    {% endif %}{% endif %}
+    {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+    </h6>
+</div>
+
 Hello and Welcome!  I'm SurvivorDK, and this is my solo playthrough of Ark: Survival Evolved on the Ragnarok map.  This map is HUGE, and it has so many different biomes: beach, jungle, mountains, snow, redwoods, swamp, highlands, desert, ocean, caves, ruins, and more!  I have two main goals for my first series: tame every dino and beat the boss!  There are over a hundred tameable creatures on this map, so it's going to take a while.  Additionally, I want to beat the boss on all three difficulties: Gamma, Beta, and Alpha.  The boss on this map is a Dragon and Manticore!  My third goal for my this series is to build bases all around the map.  Accomplishing this will actually help me with achieving the other two goals.
 
 You can check out my YouTube channel here: [@SurvivorDK](https://www.youtube.com/@SurvivorDK)
 
 ### Week 1: Taming 20 Starter Dinos
 
-During my first week on the beach by Viking Bay, I began gathering resources and started my journey as a survivor. I leveled up by harvesting bushes and punching trees, dealing with noisy Dodos along the way.
+During my first week on the beach by Viking Bay, I began gathering resources and started my journey. I leveled up by harvesting bushes and punching trees, dealing with noisy Dodos along the way.
 
 ![Ark Ragnarok - SurvivorDK Day 1 - punching a tree](/assets/img/first-day/survivordk-day-1-punching-tree.jpg)
 
@@ -191,4 +205,13 @@ Well, that’s it for my first 25 days on Ragnarok!
 Here's the full episode for day 25: [![Taming a Beaver!](/assets/img/first-25-days/Day-25-Thumbnail.jpg)](https://youtu.be/DlM3IDK0rgU)
 
 Here's a YouTube Short for my first 25 days: [![I survived 25 days in Ark on Ragnarok!](/assets/img/first-25-days/First-25-Days-Short-Thumbnail.jpg)](https://youtube.com/shorts/dKyWkIbDfmg)
+
+<div class="PageNavigation">
+    {% if page.next.url %}
+        <h4>Here's my next post: <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></h4>
+    {% endif %}
+    {% if page.previous.url %}
+        <h4>Here's my previous post: <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></h4>
+    {% endif %}
+</div>
 

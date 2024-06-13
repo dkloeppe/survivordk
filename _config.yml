@@ -37,12 +37,12 @@ instagram_username: survivordkplaysark
 show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://www.survivordk.com" # the base hostname & protocol for your site
 #google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category

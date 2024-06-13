@@ -12,6 +12,20 @@ author: survivordk
 paginate: false
 ---
 
+<div class="PageNavigation" style="text-align: center;">
+    <h6>
+    {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.previous.url %}{% if page.next.url %}
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+    {% endif %}{% endif %}
+    {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+    </h6>
+</div>
+
 I spawned on the beach by Viking Bay, a perfect starting point for gathering resources and beginning my journey.  After I gained my bearings, I did the most logical thing a survivor could do: start punching the nearest tree.  I harvested a few bushes and got my first level-up.  There are a ton of dodos around, and they are VERY noisy.  Don't they know I'm doing a Let's Play?  As I gathered materials under the Dodos' deafening roars, I spotted two high-level Moschops right by the spawn point. This was a fantastic opportunity to get a head start with some strong tames.
 
 ### Starting My Adventure: Taming Moschops
@@ -56,3 +70,11 @@ This was just the beginning of my Ragnarok adventure. Stay tuned for more update
 
 Happy surviving, and see you next time!
 
+<div class="PageNavigation">
+    {% if page.next.url %}
+        <h4>Here's my next post: <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></h4>
+    {% endif %}
+    {% if page.previous.url %}
+        <h4>Here's my previous post: <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></h4>
+    {% endif %}
+</div>

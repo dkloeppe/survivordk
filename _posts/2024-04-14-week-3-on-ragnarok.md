@@ -12,6 +12,20 @@ author: survivordk
 paginate: false
 ---
 
+<div class="PageNavigation" style="text-align: center;">
+    <h6>
+    {% if page.previous.url %}
+        <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.previous.url %}{% if page.next.url %}
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+    {% endif %}{% endif %}
+    {% if page.next.url %}
+        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+    </h6>
+</div>
+
 Welcome back survivors! It's week 3 on Ragnarok, and I'm going to be building some awesome traps. This will help me reach my goal of taming every creature on this map. During my first week, I made great progress leveling-up and taming starter dinos.  My thatch hut was quickly upgraded to wood, and I crafted all the base essentials as I unlocked more engrams.  
 
 Over the course of my second week on Ragnarok, I expanded my tribe and resources significantly. Starting on day 8, I gathered Flint, Stone, and Metal with Thorny and tamed several new creatures, including Lavender, Sandy, Blaze, and Marigold, bringing my total to 24 tamed dinos. I started day 9 with a metal run and crafted some large storage boxes. I also tamed two Tek Parasaurs: Sapphire and Topaz, and Perry the Pteranodon, my first flier. On day 10, I continued hunting for keratin and tamed Terry the Pteranodon.  Days 11 and 12 were focused on resource gathering and taming more dinos like more Pteranodons and a Tek Stego. I did some exploring along Viking Coast and encountered a few pesky Vultures on the way. Day 13 involved a challenging journey after a death, but I managed to retrieve my gear and avenge my fallen pet. By day 14, I constructed a stone barn and improved my survival stats. Through various challenges, my tribe grew stronger, and I prepared for greater adventures with my new fliers.
@@ -93,3 +107,12 @@ Well, that’s it for week 3 on Ragnarok!
 Here's the full episode for day 21: [![Taming a Frog!](/assets/img/week-03/Day-21-Thumbnail-v2.jpg)](https://youtu.be/nyPrYAsMcho)
 
 Here is the video for week 3 of my Ragnarok adventure: [![Taming a Rex, Argy, Doedic, and Bary!](/assets/img/week-03/survivordk-week-3-thumbnail.jpg)](https://www.youtube.com/watch?v=eV9nwMeW9V8&t=3617s)
+
+<div class="PageNavigation">
+    {% if page.next.url %}
+        <h4>Here's my next post: <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a></h4>
+    {% endif %}
+    {% if page.previous.url %}
+        <h4>Here's my previous post: <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a></h4>
+    {% endif %}
+</div>
