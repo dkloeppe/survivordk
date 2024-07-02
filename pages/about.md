@@ -9,11 +9,19 @@ permalink: /about/
 
 [![Welcome to @SurvivorDK](/assets/img/week-03/Welcome-04-Thumbnail.jpg)](https://www.youtube.com/@SurvivorDK)
 
-Hello and Welcome! I'm SurvivorDK, and I play Ark: Survival Evolved solo on Ragnarok.  Ark is an action-adventure, open-world, survival, crafting game where you can tame dinos, build bases, and fight bosses.  I started my YouTube channel ([@SurvivorDK](https://www.youtube.com/@SurvivorDK)) in 2023 because I enjoy playing this game and I wanted to learn video editing.  There was a lot for me to learn, from recording with OBS, to fixing my audio in Audacity, to finding royalty-free-music, to editing in OpenShot and KDenLive, to actually playing the game and making progress!  I've really enjoyed every step of the way though!!
+Hello and Welcome! I'm SurvivorDK, and I play Ark: Survival Evolved solo on Ragnarok.  Ark is an action-adventure, open-world, survival, crafting game where you can tame dinos, build bases, and fight bosses.  The game was developed by Studio Wildcard in 2015.  I purchased the game on Steam.  Here's the link: [Steam Link for ARK: Survival Evolved](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/)
 
-I have two main goals for my first Ragnarok series: tame every dino and beat the boss!  There are 110 tameable creatures on this map, so that's going to be quite the feat!  Additionally, I can fight the boss on three different difficulties: Gamma, Beta, and Alpha.  I want to beat all three! The boss on this map is a Dragon and Manticore!  I also have a third goal for my this series: I want to build bases all around the map.  This is going to help me complete my two main goals, and I really enjoy building!  You can check out my SurvivorDK YouTube channel here: [YouTube.com/@SurvivorDK](https://www.youtube.com/@SurvivorDK)
+Other links:
+ - Official Website for ARK: Survival Evolved: [playark.com](https://playark.com/)
+ - News for ARK: Survival Evolved: [survivetheark.com](https://survivetheark.com/)
+ - Official Website for Studio Wildcard: [studiowildcard.com](https://www.studiowildcard.com/)
+ - Ark Wiki: [ark.wiki.gg/wiki/ARK_Wiki](https://ark.wiki.gg/wiki/ARK_Wiki)
+ - Ragnarok Wiki: [ark.fandom.com/wiki/Ragnarok](https://ark.fandom.com/wiki/Ragnarok)
+ - Dododex: [dododex.com/dinosaurs/ragnarok](https://www.dododex.com/dinosaurs/ragnarok)
 
-Join me as I embark on a fresh adventure on the stunning Ragnarok map. Starting on the shore of Viking Bay, I set out to harvest resources, tame some dinosaurs, and build a safe haven. Here's a detailed account of my first week in Ark, filled with exciting tames, resource gathering, and base building.
+I started my YouTube channel ([@SurvivorDK](https://www.youtube.com/@SurvivorDK)) in 2023 because I enjoy playing this game and I wanted to learn video editing.  There was a lot for me to learn, from recording with OBS, to fixing my audio in Audacity, to finding royalty-free-music, to editing in OpenShot and KDenLive, to actually playing the game and making progress!  I've really enjoyed every step of the way though!!
+
+I have three main goals for my first Ragnarok series: tame every dino, beat the boss, and build epic bases!  There are 110 tameable creatures on this map, so that's going to be quite the feat!  Additionally, I can fight the boss on three different difficulties: Gamma, Beta, and Alpha.  I want to beat all three! The boss on this map is a Dragon and Manticore!  You can check out my SurvivorDK YouTube channel here: [YouTube.com/@SurvivorDK](https://www.youtube.com/@SurvivorDK)  Join me as I embark on a fresh adventure on the stunning Ragnarok map.
 
 Here are links to my socials:
 
